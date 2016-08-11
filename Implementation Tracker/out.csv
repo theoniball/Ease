@@ -1,0 +1,26 @@
+,Folder,Status,Status,Total Tasks,Completion %
+,,,Status Count,,
+,,,,,
+0,Angola,Active,3,,
+1,Angola,Cancelled,1,,
+2,Angola,Completed,14,18,77.78%
+3,Celaya,Active,2,,
+4,Celaya,Cancelled,1,,
+5,Celaya,Completed,16,19,84.21%
+6,Harrisonburg,Active,1,,
+7,Harrisonburg,Cancelled,1,,
+8,Harrisonburg,Completed,18,20,90.0%
+9,Hartwell,Cancelled,1,,
+10,Hartwell,Completed,16,17,94.12%
+11,Kettering,Cancelled,1,,
+12,Kettering,Completed,16,17,94.12%
+13,Napoleon,Active,10,,
+14,Napoleon,Completed,14,24,58.33%
+15,Owen Sound,Active,6,,
+16,Owen Sound,Completed,17,23,73.91%
+17,Paragould,Cancelled,1,,
+18,Paragould,Completed,20,21,95.24%
+19,Reynosa,Active,5,,
+20,Reynosa,Cancelled,1,,
+21,Reynosa,Completed,15,21,71.43%
+22,Totals:,,146,180,81.11%
