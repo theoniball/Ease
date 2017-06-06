@@ -1,0 +1,60 @@
+,Folder,Status,Status,Total Tasks,Completion %
+,,,Status Count,,
+,,,,,
+0,Implementations/3M Little Rock (Tiny Rick),Active,28,,
+1,Implementations/Continental Mt. Vernon,Active,24,,
+2,Implementations/Continental Mt. Vernon,Completed,4,28,14.29%
+3,Implementations/Continental Sumter,Active,24,,
+4,Implementations/Continental Sumter,Completed,4,28,14.29%
+5,Implementations/Dana/Dana AMSA,Active,1,,
+6,Implementations/Dana/Dana AMSA,Cancelled,2,,
+7,Implementations/Dana/Dana AMSA,Completed,26,29,89.66%
+8,Implementations/Dana/Dana Albion,Active,1,,
+9,Implementations/Dana/Dana Albion,Cancelled,2,,
+10,Implementations/Dana/Dana Albion,Completed,25,28,89.29%
+11,Implementations/Dana/Dana Cardanes,Active,21,,
+12,Implementations/Dana/Dana Cardanes,Completed,7,28,25.0%
+13,Implementations/Dana/Dana Columbia,Active,1,,
+14,Implementations/Dana/Dana Columbia,Completed,27,28,96.43%
+15,Implementations/Dana/Dana Dry Ridge,Completed,28,28,100.0%
+16,Implementations/Dana/Dana Enco,Active,1,,
+17,Implementations/Dana/Dana Enco,Completed,27,28,96.43%
+18,Implementations/Dana/Dana Etrac,Active,16,,
+19,Implementations/Dana/Dana Etrac,Completed,12,28,42.86%
+20,Implementations/Dana/Dana Forjas,Active,9,,
+21,Implementations/Dana/Dana Forjas,Completed,19,28,67.86%
+22,Implementations/Dana/Dana Pottstown,Active,1,,
+23,Implementations/Dana/Dana Pottstown,Cancelled,1,,
+24,Implementations/Dana/Dana Pottstown,Completed,27,29,93.1%
+25,Implementations/Gestamp McCalla Implementation,Active,1,,
+26,Implementations/Gestamp McCalla Implementation,Cancelled,1,,
+27,Implementations/Gestamp McCalla Implementation,Completed,26,28,92.86%
+28,Implementations/Gestamp WV Implementation,Active,1,,
+29,Implementations/Gestamp WV Implementation,Completed,27,28,96.43%
+30,Implementations/Guardian Glass Carleton,Active,1,,
+31,Implementations/Guardian Glass Carleton,Completed,23,28,82.14%
+32,Implementations/Guardian Glass Carleton,Deferred,4,,
+33,Implementations/ITW Deltar,Active,4,,
+34,Implementations/ITW Deltar,Completed,32,36,88.89%
+35,Implementations/SRG Covington,Active,19,,
+36,Implementations/SRG Covington,Completed,9,28,32.14%
+37,Implementations/SRG Taylor,Active,10,,
+38,Implementations/SRG Taylor,Completed,18,28,64.29%
+39,Implementations/TAG Midwest,Active,20,,
+40,Implementations/TAG Midwest,Completed,8,28,28.57%
+41,Trials/BASF,Cancelled,2,,
+42,Trials/BASF,Completed,17,19,89.47%
+43,Trials/Blue Apron,Active,8,,
+44,Trials/Blue Apron,Cancelled,2,,
+45,Trials/Blue Apron,Completed,9,19,47.37%
+46,Trials/Cooper Tire Tupelo,Completed,19,19,100.0%
+47,Trials/Federal Mogul El Paso,Cancelled,5,,
+48,Trials/Federal Mogul El Paso,Completed,14,19,73.68%
+49,Trials/Federal Mogul Queretaro,Active,10,,
+50,Trials/Federal Mogul Queretaro,Completed,9,19,47.37%
+51,Trials/Firestone Williamsburg,Active,8,,
+52,Trials/Firestone Williamsburg,Completed,11,19,57.89%
+53,Trials/SRG Irapuato,Active,11,,
+54,Trials/SRG Irapuato,Completed,8,19,42.11%
+55,Trials/Stanley Electric,Completed,20,20,100.0%
+56,Completed / Total,,456,695,65.61%
